@@ -1,13 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Aryan Bhatt, a Full-time Full-Stack Developer 👨‍💻 Working remotely since 2024 🚀</div>  
   
+<div align="center">
+<img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
+</div>
 
 - 🔭 I’m currently working on [Landing Pages & Rest API](https://github.com/aryan9264/comp_portfolio)  
-  
+  <img src="/mnt/data/image.png" align="right" width="300" />
 
 - 🌱 I’m currently learning more about MERN Stack  
   
@@ -86,22 +84,42 @@
 <a href="https://github.com/aryan9264" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/aryan-bhatt-5a480a207" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bhattaryan.2002" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/aryan9264" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 
 <br/>  
 
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aryan9264&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31z6m2yx7nuwfi5h5zwtf6m7bdqi&cover_image=true&theme=default" /></div>  
+
+<br/>  
+
+
+## Spotify Listening  
+  
+
+<br/>  
+
+<div align="center">
+<a href="https://open.spotify.com/user/31z6m2yx7nuwfi5h5zwtf6m7bdqi" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/spotify-icon.svg" alt="Spotify" style="width:40px;height:40px;" /></a>  
+</div>  
+  
+
+<br/>  
+  
 
 <br/>  
 
@@ -109,3 +127,7 @@
 <img src="https://komarev.com/ghpvc/?username=aryan9264&&style=flat-square" align="center" />
 </div>  
   
+
+<br/>  
+
+<div align="center"></div>
