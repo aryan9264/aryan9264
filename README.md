@@ -21,6 +21,8 @@
 
 -  ⚡ Fun fact: looking for positivity in negativity.
 
+-  🏫 Graduate: Bachelor of Technology in Computer Science (IoT) - PSIT, Kanpur, Uttar Pradesh
+
 <br/>
 
 
