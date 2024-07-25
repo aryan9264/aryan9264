@@ -1,8 +1,6 @@
 <h1 align="center">Hey Welcome to my Profile 😄, It's me Aryan Bhatt</h1>
 <h3 align ="center"> A Full-time Full-Stack Developer 👨‍💻 Working remotely since 2024 🚀</h3>
 
-<br>
-</br>
 
 <div align="center">
   <img align="right" alt="Coding & Research" width="300" hieght="300" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
