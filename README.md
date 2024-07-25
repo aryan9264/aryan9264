@@ -69,7 +69,7 @@
 </div>
 
  
-## Connect with me
+## Connect with Me
 <div align="center">
 <a href="https://github.com/aryan9264" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /></a>
 <a href="https://linkedin.com/in/aryan-bhatt-5a480a207" target="_blank">
