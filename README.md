@@ -4,8 +4,6 @@
 <img align="right" alt="Coding & Research" width="400" img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
 </div>
 
-<img align="right" alt="Coding & Research" width="400" img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
 - 🔭 I’m currently working on [Landing Pages & Rest API](https://github.com/aryan9264/comp_portfolio)  
 
 - 🌱 I’m currently learning more about MERN Stack  
