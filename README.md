@@ -1,4 +1,4 @@
-<h1 align="center">Hey Welcome to my Profile 👋😄, It's me Aryan Bhatt</h1>
+<h1 align="center">Hey Welcome to my Profile 😄, It's me Aryan Bhatt</h1>
 <h3 align ="center"> A Full-time Full-Stack Developer 👨‍💻 Working remotely since 2024 🚀</h3>
 
 
