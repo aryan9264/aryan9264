@@ -6,11 +6,16 @@
   <img align="right" alt="Coding & Research" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
 </div>
 
+
+
 - 🔭 I’m currently working on [Landing Pages & Rest API](https://github.com/aryan9264/comp_portfolio)
+
   
 - 🌱 I’m currently learning more about MERN Stack
 
+
 - ❓ Ask me about anything related to MERN stack and related technologies
+
 
 -  ⚡ Fun fact: looking for positivity in negativity.
 
