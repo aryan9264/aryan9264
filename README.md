@@ -7,9 +7,12 @@
 </div>
 
 - 🔭 I’m currently working on [Landing Pages & Rest API](https://github.com/aryan9264/comp_portfolio)
+  
 - 🌱 I’m currently learning more about MERN Stack
+
 - ❓ Ask me about anything related to MERN stack and related technologies
-- ⚡ Fun fact: looking for positivity in negativity.
+
+-  ⚡ Fun fact: looking for positivity in negativity.
 
 <br/>
 
