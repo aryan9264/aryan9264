@@ -4,6 +4,9 @@
 <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
 </div>
 
+<img align="right" alt="Coding & Research" width="400" img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<p align="left"> <a href="https://twitter.com/asaarshveer7891" target="blank"><img src="https://img.shields.io/twitter/follow/asaarshveer7891?logo=twitter&style=for-the-badge" alt="asaarshveer7891" /></a> </p>
+
 - 🔭 I’m currently working on [Landing Pages & Rest API](https://github.com/aryan9264/comp_portfolio)  
 
 - 🌱 I’m currently learning more about MERN Stack  
