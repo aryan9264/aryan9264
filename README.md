@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img align="right" alt="Coding & Research" width="200" hieght="300" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
+  <img align="right" alt="Coding & Research" width="350" hieght="300" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" />
 </div>
 
 
