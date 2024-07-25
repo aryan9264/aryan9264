@@ -24,7 +24,7 @@
 <br/>
 
 
-## My Skill Set  
+## My Skills  
 
 ### Frontend  
 <div align="center">  
