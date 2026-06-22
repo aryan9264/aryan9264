@@ -1,5 +1,5 @@
-<h1 align="center">Hey Welcome to my Profile 😄, It's me Aryan Bhatt</h1>
-<h3 align ="center"> A Full-time Full-Stack Developer 👨‍💻 Working remotely since 2024 🚀</h3>
+7<h1 align="center">Hey Welcome to my Profile 😄, It's me Aryan Bhatt</h1>
+<h3 align ="center"> A Full-time Devops Engineer 👨‍💻 Working in TCS since 2025 🚀</h3>
 
 <br>
 </br>
@@ -13,10 +13,10 @@
 - 🔭 I’m currently working on [Landing Pages & Rest API](https://github.com/aryan9264/comp_portfolio)
 
   
-- 🌱 I’m currently learning more about MERN Stack
+- 🌱 I’m currently learning more about Devops(Kubernetes,Docker,CI/CD,Ansible,Puppet
 
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to Linux Technology already worked as linux Administrator ki
 
 
 -  ⚡ Fun fact: looking for positivity in negativity.
