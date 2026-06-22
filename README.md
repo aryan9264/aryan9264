@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning more about Devops(Kubernetes,Docker,CI/CD,Ansible,Puppet
 
 
-- ❓ Ask me about anything related to Linux Technology already worked as linux Administrator ki
+- ❓ Ask me about anything related to Linux Technology already worked as linux Administrator 
 
 
 -  ⚡ Fun fact: looking for positivity in negativity.
