@@ -10,10 +10,10 @@
 
 
 
-- 🔭 I’m currently working on [Landing Pages & Rest API](https://github.com/aryan9264/comp_portfolio)
+- 🔭 I’m currently work working as the Devops Engineer(https://github.com/aryan9264/comp_portfolio)
 
   
-- 🌱 I’m currently learning more about Devops(Kubernetes,Docker,CI/CD,Ansible,Puppet
+- 🌱 I’m currently learning more about Devops(Kubernetes,Docker,CI/CD,Ansible,Puppet,Jenkins)
 
 
 - ❓ Ask me about anything related to Linux Technology already worked as linux Administrator 
