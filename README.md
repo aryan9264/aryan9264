@@ -10,15 +10,15 @@ A dedicated engineer specializing in **DevOps & Cloud Automation, Frontend Web D
 
 | Category | Visual Badges |
 | :--- | :--- |
-| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white) |
-| **Cloud Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white) ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) |
-| **Scripting & Shell** | ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **CI/CD & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **Operating Systems & Virtualization** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) |
+| **Containers & Configuration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Puppet](https://img.shields.io/badge/Puppet-FFA611?style=for-the-badge&logo=puppet&logoColor=black) |
+| **CI/CD & Automation** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Cloud & Version Control** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-* **Linux Administration:** User management, service orchestration (`systemctl`), process monitoring, file permissions, and storage tracking.
-* **Shell Scripting:** Automating routine administrative tasks, loop constructs, functions, conditional logic, and health checks (`NodeHealth.sh`).
-* **Cloud Computing:** Provisioning and configuring AWS EC2 instances, managing S3 buckets, IAM policies, and security groups.
-* **Version Control:** Git workflow, branch management, SSH authentication, and GitHub remote repository automation.
+* **Linux & Virtualization:** System administration, service orchestration (`systemctl`), process monitoring, storage management, and virtual machine deployment using VMware.
+* **Containerization & Config Management:** Creating Docker container environments, writing Dockerfiles, and managing infrastructure configurations with Puppet.
+* **CI/CD & Scripting:** Automating build, test, and deployment pipelines using Jenkins and GitHub Actions alongside Bash shell scripting (`NodeHealth.sh`).
+* **Cloud Infrastructure & Git:** Provisioning AWS services (EC2, S3, IAM) and managing repositories using structured Git workflows.
 
 ---
 
